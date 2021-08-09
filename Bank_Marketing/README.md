@@ -1,3 +1,3 @@
-# Projects
+# Bank Marketing Projects
 
-Data Analyst 관련해서 진행한 프로젝트들 입니다.
+포르투칼 은행의 고객 정보에 따른 마케팅 효과 분석입니다. 
